@@ -118,6 +118,30 @@ files:
     if __name__ == '__main__':
         WebScraperTest().run_tests()
   learner_created: false
+- name: Page_1/COVID_research_updates_A_nation’s_race_to_vaccinate_adults_protects_unvaccinated_kids_too.txt
+  visible: true
+  learner_created: true
+- name: Page_1/Why_is_it_so_hard_to_investigate_the_rare_side_effects_of_COVID_vaccines.txt
+  visible: true
+  learner_created: true
+- name: Page_3/Longawaited_muon_physics_experiment_nears_moment_of_truth.txt
+  visible: true
+  learner_created: true
+- name: Page_3/Device_sketches_objects_200_kilometres_away_one_photon_at_a_time.txt
+  visible: true
+  learner_created: true
+- name: Page_3/Why_mummified_tropical_parrots_are_buried_in_one_of_the_world’s_driest_deserts.txt
+  visible: true
+  learner_created: true
+- name: Page_3/Bright_lights_drew_a_plague_of_grasshoppers_to_‘Sin_City’.txt
+  visible: true
+  learner_created: true
+- name: Page_3/WHO_report_into_COVID_pandemic_origins_zeroes_in_on_animal_markets.txt
+  visible: true
+  learner_created: true
 feedback_link: https://hyperskill.org/projects/145/stages/785/implement#comment
-status: Unchecked
+status: Solved
+feedback:
+  message: Congratulations!
+  time: Mon, 05 Apr 2021 13:34:16 UTC
 record: -1

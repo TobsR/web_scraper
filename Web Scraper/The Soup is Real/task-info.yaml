@@ -122,15 +122,9 @@ files:
     </body>
     </html>
   learner_created: true
-- name: COVID_research_updates_A_nation’s_race_to_vaccinate_adults_protects_unvaccinated_kids_too.txt
-  visible: true
-  learner_created: true
-- name: Why_is_it_so_hard_to_investigate_the_rare_side_effects_of_COVID_vaccines.txt
-  visible: true
-  learner_created: true
 feedback_link: https://hyperskill.org/projects/145/stages/784/implement#comment
 status: Solved
 feedback:
   message: Congratulations!
   time: Mon, 05 Apr 2021 10:58:58 UTC
-record: -1
+record: 4
